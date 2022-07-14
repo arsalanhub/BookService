@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "OaeW9lGnSBsLTBFAnvJhjNJ1EtWqNnXNEJ4ZUhNh/tY=",
+  "Hash": "/8uG4L0z7YPVGRrWSexKe/jAbWikH9NRpGq/tG9GXCA=",
   "Source": "BulkyBook",
   "BasePath": "_content/BulkyBook",
   "Mode": "Default",
@@ -49,6 +49,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\Veersa\\Complete guide to ASP.NET\\Bulky\\BulkyBook\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BulkyBook.bundle.scp.css"
+    },
+    {
+      "Identity": "D:\\Veersa\\Complete guide to ASP.NET\\Bulky\\BulkyBook\\wwwroot\\css\\bootswatchTheme.css",
+      "SourceId": "BulkyBook",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Veersa\\Complete guide to ASP.NET\\Bulky\\BulkyBook\\wwwroot\\",
+      "BasePath": "_content/BulkyBook",
+      "RelativePath": "css/bootswatchTheme.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\bootswatchTheme.css"
     },
     {
       "Identity": "D:\\Veersa\\Complete guide to ASP.NET\\Bulky\\BulkyBook\\wwwroot\\css\\site.css",

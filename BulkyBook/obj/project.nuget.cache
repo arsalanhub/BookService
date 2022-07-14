@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "kUUjC9Dx1z3cuuavdXV2Zq+N+UkK2hduLs/xo77+m8uJqVyv9fnSml6SoxbB0llEJenMpuDMZ1bBOVHjfYaZBw==",
+  "dgSpecHash": "4j+HNEijJVAtr55aSk07uGXtICtTvfP3Rg47M9TVBncjoGQoVYSNjk6bGyLiYjJEP7fiyIjwwjXl2tEwzeq/Bw==",
   "success": true,
   "projectFilePath": "D:\\Veersa\\Complete guide to ASP.NET\\Bulky\\BulkyBook\\BulkyBook.csproj",
   "expectedPackageFiles": [
@@ -8,6 +8,8 @@
     "C:\\Users\\Arsalan\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
     "C:\\Users\\Arsalan\\.nuget\\packages\\messagepack.annotations\\2.1.152\\messagepack.annotations.2.1.152.nupkg.sha512",
     "C:\\Users\\Arsalan\\.nuget\\packages\\messagepackanalyzer\\2.1.152\\messagepackanalyzer.2.1.152.nupkg.sha512",
+    "C:\\Users\\Arsalan\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\3.1.19\\microsoft.aspnetcore.mvc.razor.extensions.3.1.19.nupkg.sha512",
+    "C:\\Users\\Arsalan\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.runtimecompilation\\3.1.19\\microsoft.aspnetcore.mvc.razor.runtimecompilation.3.1.19.nupkg.sha512",
     "C:\\Users\\Arsalan\\.nuget\\packages\\microsoft.aspnetcore.razor.language\\6.0.0\\microsoft.aspnetcore.razor.language.6.0.0.nupkg.sha512",
     "C:\\Users\\Arsalan\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\5.0.0\\microsoft.bcl.asyncinterfaces.5.0.0.nupkg.sha512",
     "C:\\Users\\Arsalan\\.nuget\\packages\\microsoft.build\\17.0.0\\microsoft.build.17.0.0.nupkg.sha512",
@@ -45,6 +47,7 @@
     "C:\\Users\\Arsalan\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\Arsalan\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
     "C:\\Users\\Arsalan\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Arsalan\\.nuget\\packages\\microsoft.extensions.dependencymodel\\3.1.6\\microsoft.extensions.dependencymodel.3.1.6.nupkg.sha512",
     "C:\\Users\\Arsalan\\.nuget\\packages\\microsoft.extensions.logging\\6.0.0\\microsoft.extensions.logging.6.0.0.nupkg.sha512",
     "C:\\Users\\Arsalan\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\Arsalan\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
