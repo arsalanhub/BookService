@@ -551,3 +551,7 @@ D:\Veersa\Complete guide to ASP.NET\Bulky\BulkyBook\bin\Debug\net6.0\Microsoft.A
 D:\Veersa\Complete guide to ASP.NET\Bulky\BulkyBook\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
 D:\Veersa\Complete guide to ASP.NET\Bulky\BulkyBook\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
 D:\Veersa\Complete guide to ASP.NET\Bulky\BulkyBook\obj\Debug\net6.0\BulkyBook.MvcApplicationPartsAssemblyInfo.cs
+D:\Veersa\Complete guide to ASP.NET\Bulky\BulkyBook\bin\Debug\net6.0\BulkyBook.DataAccess.dll
+D:\Veersa\Complete guide to ASP.NET\Bulky\BulkyBook\bin\Debug\net6.0\BulkyBook.Models.dll
+D:\Veersa\Complete guide to ASP.NET\Bulky\BulkyBook\bin\Debug\net6.0\BulkyBook.DataAccess.pdb
+D:\Veersa\Complete guide to ASP.NET\Bulky\BulkyBook\bin\Debug\net6.0\BulkyBook.Models.pdb
