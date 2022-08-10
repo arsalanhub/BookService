@@ -9584,7 +9584,9 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://pkgs.dev.azure.com/Next-Generation-Data-Platform/_packaging/duly.digital/nuget/v3/index.json": {},
+        "https://pkgs.dev.azure.com/Next-Generation-Data-Platform/duly.app.v1.collaboration-view/_packaging/duly.collaboration-view/nuget/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
